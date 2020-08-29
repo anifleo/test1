@@ -1,1 +1,2 @@
-sdlakjfsadjfklsadfl
+Print ("New code")
+Print ("Hello, world!")
